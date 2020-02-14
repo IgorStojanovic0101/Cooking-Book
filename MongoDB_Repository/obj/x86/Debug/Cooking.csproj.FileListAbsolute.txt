@@ -1,0 +1,17 @@
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\bin\Debug\Cooking.pdb
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Bson.dll
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Driver.dll
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.csprojAssemblyReference.cache
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.Properties.Resources.resources
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.csproj.GenerateResource.cache
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.csproj.CoreCompileInputs.cache
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.csproj.CopyComplete
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.pdb
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\bin\Debug\Cooking.exe.config
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\bin\Debug\Cooking.exe
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.exe
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.Menu.resources
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.Register.resources
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.MainMenu.resources
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.Recept.resources
+D:\Fakultet\Igor\VII\NB\Cooking\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\Cooking.ReceptView.resources
