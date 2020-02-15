@@ -59,7 +59,9 @@ namespace Cooking
                         zacini.Text = r.zacini;
                         vreme.Text = r.vreme;
                         dodaci.Text = r.dodaci;
-
+                     
+                            Kuvar KUVA = db.FetchDBRefAs<Kuvar>(r.radnik);
+                        label7.Text = "Kuvar " + KUVA.ime + " " + KUVA.prezime;
                         ObjectId oid = new ObjectId(r.ImageId.ToString());
                         var file = db.GridFS.FindOne(Query.EQ("_id", oid));
                         sFileName = newFileName + "\\" + System.IO.Path.GetFileName(file.Name);
